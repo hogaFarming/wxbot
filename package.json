@@ -1,0 +1,17 @@
+{
+  "name": "wxbot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "tough-cookie": "^2.3.2",
+    "xml2js": "^0.4.19"
+  }
+}
